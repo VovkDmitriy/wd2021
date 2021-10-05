@@ -1,0 +1,60 @@
+﻿body
+{
+}
+.container {
+    background-color: #eee;
+    margin-top: 3px;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-bottom:60px;
+}
+div.header {
+    margin-top: 0px;
+    padding-top:0px;
+    text-align: center;
+    height: 15%;
+    background-color: white;
+}
+h1.header {
+    padding-top: 3%;
+    font-size: 50px;
+}
+.box {
+    display: flex;
+    flex-direction: row;
+    position: sticky;
+}
+.product {
+    width:25%;
+    background-color: white;
+    text-align:center;
+    
+    margin:20px;
+    border:1px solid black;
+    padding-left:8px;
+    padding-right:8px;
+
+}
+.buttProduct {
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+.cart {
+    background-color: white;
+    text-align:center;
+    margin-right:40px;
+    margin-left:40px;
+}
+.cartHead {
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
+}
+.buy {
+    margin-bottom: 30px;
+    margin-top: 15px;
+    text-align: center;
+}
